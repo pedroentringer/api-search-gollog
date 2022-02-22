@@ -1,3 +1,6 @@
+# Deprecated
+GOLLOG has changed the way it is consulted on its main site, so this service no longer works.
+
 # API - Rastreio Gollog
 
 API for tracking loads on the Gollog portal
